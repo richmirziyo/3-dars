@@ -596,7 +596,6 @@ h4 {
 
   .hero-title {
     color: #fefcf7;
-    font-family: Fraunces, serif;
     font-size: 48px;
     font-style: normal;
     font-weight: 900;
@@ -674,50 +673,5 @@ h4 {
     line-height: 26px;
   }
 
-  .question {
-    padding-bottom: 350px;
-  }
 
-  .choose {
-    padding: 100px 0 0 0;
-    height: 600px;
-    border-radius: 10px;
-    background: #2c343e;
-  }
-
-  .question-title {
-    margin-bottom: 32px;
-    font-family: Fraunces, serif;
-    color: #fefcf7;
-    text-align: center;
-    font-size: 40px;
-    font-style: normal;
-    font-weight: 900;
-    line-height: 48px;
-  }
-
-  .question-choose {
-    width: 688px;
-    height: 573px;
-  }
-
-  .question-gr {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .question-best-gr {
-    width: 573px;
-    height: 180px;
-  }
-
-  .question-exclusive-gr {
-    width: 573px;
-    height: 180px;
-  }
-
-  .question-gr-shipping {
-    width: 573px;
-    height: 180px;
-  }
 } 
