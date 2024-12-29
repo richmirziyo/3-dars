@@ -1,4 +1,4 @@
- @font-face {
+@font-face {
   font-display: swap;
   font-family: "Fraunces";
   font-style: normal;
@@ -588,6 +588,8 @@ h4 {
   }
 
   .hero {
+    width: 689px;
+    height: 500px;
     /* background-image: url("../images/home/tablet/image-hero-coffeepress.jpg"); */
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -595,6 +597,8 @@ h4 {
   }
 
   .hero-title {
+    width: 329px;
+    height: 97px;
     color: #fefcf7;
     font-size: 48px;
     font-style: normal;
@@ -673,5 +677,135 @@ h4 {
     line-height: 26px;
   }
 
+  .question {
+    width: 668px;
+    height: 863px;
+  }
 
-} 
+  .choose {
+  }
+
+  .question-choose {
+    width: 688px;
+    height: 573px;
+  }
+
+  .question-title {
+    width: 264px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-right: 212px;
+  }
+
+  .question-gr {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .works {
+    width: 689px;
+    height: 622px;
+    margin-top: 544px;
+    margin-left: 39px;
+  }
+
+  .works-title {
+    width: 255px;
+    height: 32px;
+  }
+
+  .works-spen {
+    width: 497px;
+    height: 2px;
+  }
+
+  .work-pick {
+    width: 223px;
+    height: 371px;
+
+    h2 {
+      width: 90px;
+      height: 72px;
+    }
+
+    h3 {
+      width: 223px;
+      height: 65px;
+      font-size: 28px;
+      line-height: 32px;
+    }
+
+    p {
+      width: 223px;
+      height: 154px;
+      font-size: 18px;
+      line-height: 25px;
+    }
+  }
+
+  .work-choose {
+    width: 223px;
+    height: 369px;
+
+    h2 {
+      width: 101px;
+      height: 72px;
+    }
+
+    h3 {
+      width: 223px;
+      height: 65px;
+      font-size: 28px;
+      line-height: 32px;
+    }
+
+    p {
+      width: 223px;
+      height: 152px;
+      font-size: 18px;
+      line-height: 25px;
+    }
+  }
+
+  .work-enjoy {
+    width: 223px;
+    height: 368px;
+
+    h2 {
+      width: 98px;
+      height: 72px;
+    }
+
+    h3 {
+      width: 223px;
+      height: 65px;
+      font-size: 28px;
+      line-height: 32px;
+    }
+
+    p {
+      width: 223px;
+      height: 151px;
+      font-size: 18px;
+      line-height: 25px;
+    }
+  }
+  .main-btm {
+    margin-top: 44px;
+  }
+
+  .footer {
+    width: 688px;
+    height: 270px;
+  }
+
+  .footer-st {
+    width: 1280px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
